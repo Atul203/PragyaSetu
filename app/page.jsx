@@ -233,7 +233,7 @@ export default function HomePage() {
               <span className="font-semibold text-foreground">PragyaSetu</span>
             </div>
             <p className="text-sm text-muted-foreground">
-              © 2024 PragyaSetu. Empowering students for industry success.
+              © 2026 PragyaSetu. Empowering students for success.
             </p>
           </div>
         </div>
